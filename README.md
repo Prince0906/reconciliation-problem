@@ -13,7 +13,7 @@
 ## How to Test the API
 
 1. **Open Postman** (or any API testing tool).
-2. **Send a POST request** to the following URL: https://fixing-doc-s-iq.onrender.com/identify
+2. **Send a POST request**
 
 3. **Set the request body** to:
 
