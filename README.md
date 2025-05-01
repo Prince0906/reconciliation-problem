@@ -1,4 +1,4 @@
-# Bitespeed: Identity Reconciliation
+Identity Reconciliation
 
 ### Description of Key Files:
 - **`config/db.js`**: Contains database connection logic.
